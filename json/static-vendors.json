@@ -1,0 +1,81 @@
+[
+    {
+        "name":"Farm Produce",
+        "image": "img/fruit.png",
+        "selection": true,
+        "vendors": [
+            "Old Dog Ranch",
+            "Webb Ranch",
+            "Crescent Farm",
+            "Rio de Parras",
+            "Specialty Produce",
+            "Smit Farm",
+            "Sunrise Farm",
+            "Half Moon Harvest",
+            "Green Eggs-n-Jam",
+            "local honey",
+            "Bill the Bulb Baron"
+        ]
+    },
+    {
+        "name": "Meat & Fish",
+        "image": "img/Fish.png",
+        "selection": false,
+        "vendors": [
+            "Victorian Farmstead Meats",
+            "One Ocean Seafood",
+            "Haley's Sausage Co."
+        ]
+    },
+    {
+        "name" : "Specialty Items",
+        "image": "img/Beer.png",
+        "selection": false,
+        "vendors": [
+            "Portola Vineyards",
+            "Sinbad Catering",
+            "Nut 'n Bean",
+            "High Note Coffee",
+            "Milliken Creek Vineyards",
+            "Homemaid Ravioli Co.",
+            "Dobson&Clarke"
+        ]
+    },
+    {
+        "name" : "Bakery & Sweets",
+        "image": "img/Bread.png",
+        "selection": false,
+        "vendors": [
+            "Portola Valley Bread",
+            "Flourchylde Bakery",
+            "City Baking",
+            "Tantalizing Toffee",
+            "Spoon & Spatula Bakery",
+            "Kidding Around with Chocolate",
+            "Shampa's Pies"
+        ]
+    },
+    {
+        "name" :"Food Trucks",
+        "image": "img/Food-Truck.png",
+        "selection": false,
+        "vendors": [
+            "Roli Roti (hot rotisserie chicken and potatoes)"
+        ]
+    },
+    {
+        "name": "Crafts",
+        "image": "img/Sewing-Machine.png",
+        "selection": false,
+        "vendors": [
+            "Jen Raynes Art",
+            "J. Carruthers Floral",
+            "Ecogirl Handbags",
+            "Kathena Avelon Jewelry",
+            "Dream Light Jewelry",
+            "Nancy Wilder Designs",
+            "Zubrub",
+            "Route One Pumpkin Soaps & Lotion"
+        ]
+    }
+]

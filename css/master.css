@@ -1,1 +1,12 @@
 #leafletMap { height: 400px; }
+
+.carousel-control.left, .carousel-control.right {
+    background-image: none
+}
+
+.carousel.slide {
+}
+
+.glyphicon-chevron-right, .glyphicon-chevron-left {
+    color: #F05F40;
+}
