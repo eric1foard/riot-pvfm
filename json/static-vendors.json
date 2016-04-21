@@ -4,7 +4,7 @@
     "image": "img/fruit.png",
     "selection": true,
     "vendors": [
-      "Old Dog Ranch",
+      "Winter's Fruit Tree",
       "Webb Ranch",
       "Crescent Farm",
       "Rio de Parras",
@@ -15,6 +15,20 @@
       "Green Eggs-n-Jam",
       "local honey",
       "Bill the Bulb Baron"
+    ]
+  },
+  {
+    "name" : "Bakery & Sweets",
+    "image": "img/Bread.png",
+    "selection": false,
+    "vendors": [
+      "Manresa Bread",
+      "Mayfield's Bakery",
+      "Flourchylde Bakery",
+      "Tantalizing Toffee",
+      "Spoon & Spatula Bakery",
+      "Kidding Around with Chocolate",
+      "Shampa's Pies"
     ]
   },
   {
@@ -31,29 +45,12 @@
     "image": "img/Beer.png",
     "selection": false,
     "vendors": [
+      "Noble Treats",
       "Portola Vineyards",
       "Sinbad Catering",
       "Nut 'n Bean",
       "High Note Coffee",
-      "Milliken Creek Vineyards",
-      "Homemaid Ravioli Co.",
-      "Dobson&Clarke"
-    ]
-  },
-  {
-    "name" : "Bakery & Sweets",
-    "image": "img/Bread.png",
-    "selection": false,
-    "vendors": [
-      "Manresa Bread",
-      "Mayfield's Bakery",
-      "Portola Valley Bread",
-      "Flourchylde Bakery",
-      "City Baking",
-      "Tantalizing Toffee",
-      "Spoon & Spatula Bakery",
-      "Kidding Around with Chocolate",
-      "Shampa's Pies"
+      "Milliken Creek Vineyards"
     ]
   },
   {
@@ -69,12 +66,12 @@
     "image": "img/Sewing-Machine.png",
     "selection": false,
     "vendors": [
+      "Earth's Sister",
+      "Body & Soul Apothcary",
       "Jen Raynes Art",
       "J. Carruthers Floral",
-      "Ecogirl Handbags",
       "Kathena Avelon Jewelry",
       "Dream Light Jewelry",
-      "Nancy Wilder Designs",
       "Zubrub",
       "Route One Pumpkin Soaps & Lotion"
     ]
