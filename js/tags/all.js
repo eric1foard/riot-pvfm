@@ -9,6 +9,7 @@ riot.tag2('featured-vendor', '<section class="bg-primary" id="about"> <div class
 
 riot.tag2('find-us-map', '<section class="no-padding" id="portfolio"> <div id="leafletMap"> </div> </section>', '', '', function(opts) {
     this.on('mount', function() {
+      L.Icon.Default.imagePath = './images';
         var map = L.map('leafletMap', {
             center: [37.382468, -122.228823],
             zoom: 15,

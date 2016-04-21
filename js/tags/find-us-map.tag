@@ -7,6 +7,7 @@
 
     <script>
     this.on('mount', function() {
+      L.Icon.Default.imagePath = './images';
         var map = L.map('leafletMap', {
             center: [37.382468, -122.228823],
             zoom: 15,

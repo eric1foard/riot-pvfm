@@ -1,4 +1,10 @@
-#leafletMap { height: 400px; }
+#leafletMap {
+  height: 400px;
+}
+
+#myCarousel {
+  height: 300px;
+}
 
 .carousel-control.left, .carousel-control.right {
     background-image: none
