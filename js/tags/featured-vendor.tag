@@ -13,7 +13,7 @@
                         to market and Jim will return them to you the following week.</p>
                 </div>
                 <div class="col-lg-6 text-center">
-                    <iframe id="video" width="420" height="315" frameBorder="0" src="https://www.youtube.com/v/R-umlLb0H7Y&amp;feature=youtu.be"> </iframe>
+                    <iframe id="video" width="420" height="315" frameBorder="0" src="https://www.youtube.com/embed/R-umlLb0H7Y"> </iframe>
                 </div>
             </div>
         </div>
