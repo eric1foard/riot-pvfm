@@ -4,6 +4,7 @@
     "image": "img/fruit.png",
     "selection": true,
     "vendors": [
+      "Windy Hill Eggs",
       "Winter's Fruit Tree",
       "Webb Ranch",
       "Crescent Farm",
@@ -11,7 +12,6 @@
       "Specialty Produce",
       "Smit Farm",
       "Sunrise Farm",
-      "Half Moon Harvest",
       "Green Eggs-n-Jam",
       "local honey",
       "Bill the Bulb Baron"
@@ -22,6 +22,7 @@
     "image": "img/Bread.png",
     "selection": false,
     "vendors": [
+      "Claire’s All Natural Granola",
       "Manresa Bread",
       "Mayfield's Bakery",
       "Flourchylde Bakery",
@@ -45,6 +46,7 @@
     "image": "img/Beer.png",
     "selection": false,
     "vendors": [
+      "Carnival Porporn",
       "Noble Treats",
       "Portola Vineyards",
       "Sinbad Catering",
