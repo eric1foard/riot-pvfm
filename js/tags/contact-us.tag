@@ -8,7 +8,7 @@
                     <p>Email us if you'd like to inquire about joining the market as a vendor or have other questions. Like us on Facebook!</p>
                 </div>
                 <div class="col-lg-4 col-lg-offset-2 text-center">
-                    <a href="mailto:foard265@gmail.com">
+                    <a href="mailto:maggiefoard@mac.com">
                         <img src="img/mail.png">
                     </a>
                 </div>

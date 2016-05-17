@@ -5,15 +5,12 @@
                 <div class="col-lg-6 text-center">
                     <h2 class="section-heading">Featured Vendor</h2>
                     <hr class="light">
-                    <p class="text-faded">Jim Adams is a long-time La Honda resident.
-                        Recently retired from his work as a talented fine wood-worker,
-                        Jim spends his time sharpening knives, gardening tools, and other
-                        implements. If it ever held an edge, Jim can sharpen it! Bring
-                        your kitchen knives (or anything else, sawblades excepted)
-                        to market and Jim will return them to you the following week.</p>
+                    <p class="text-faded">Sunrise Farms has it’s own orchards in Tulare County and brings us gorgeous tree ripened fruit year-round. Late spring and early summer cherries, blueberries, apricots are in season followed by nectarines, Pluots, peaches and plums.
+Some varieties of late peaches and plums continue into fall, followed by apples, persimmons, pomegranates, asian pears and assorted citrus and avocado throughout the winter. Stephanie and Roberto are here with us every week
+and have been here with us at Portola Valley FM since the first year we opened.</p>
                 </div>
                 <div class="col-lg-6 text-center">
-                    <iframe id="video" width="420" height="315" frameBorder="0" src="https://www.youtube.com/embed/R-umlLb0H7Y"> </iframe>
+                  <img src="../../img/stone-fruit.jpeg" height="400px" alt="Sunrise Farms Fruit" />
                 </div>
             </div>
         </div>
