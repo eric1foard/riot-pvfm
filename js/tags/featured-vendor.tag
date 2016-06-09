@@ -5,12 +5,11 @@
                 <div class="col-lg-6 text-center">
                     <h2 class="section-heading">Featured Vendor</h2>
                     <hr class="light">
-                    <p class="text-faded">Sunrise Farms has it’s own orchards in Tulare County and brings us gorgeous tree ripened fruit year-round. Late spring and early summer cherries, blueberries, apricots are in season followed by nectarines, Pluots, peaches and plums.
-Some varieties of late peaches and plums continue into fall, followed by apples, persimmons, pomegranates, asian pears and assorted citrus and avocado throughout the winter. Stephanie and Roberto are here with us every week
-and have been here with us at Portola Valley FM since the first year we opened.</p>
+                    <p class="text-faded">
+Windy Hill Eggery is inspired by a love of good food, being outside, and farmers' markets.  Pasture raised, organic feed, corn and soy free. Lucy and Devon are excited to share these eggs with their neighbors at the PV Farmers’ market, and with the East Palo Alto Farmers’ Market, where people have very little access to farm fresh eggs.</p>
                 </div>
                 <div class="col-lg-6 text-center">
-                  <img src="../../img/stone-fruit.jpeg" height="400px" alt="Sunrise Farms Fruit" />
+                  <img src="../../img/egg-basket.jpeg" height="400px" alt="Sunrise Farms Fruit" />
                 </div>
             </div>
         </div>

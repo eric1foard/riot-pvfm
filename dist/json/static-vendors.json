@@ -4,17 +4,17 @@
     "image": "img/fruit.png",
     "selection": true,
     "vendors": [
-      "Windy Hill Eggs",
-      "Winter's Fruit Tree",
+      "Windy Hill Eggery",
       "Webb Ranch",
       "Crescent Farm",
       "Rio de Parras",
-      "Specialty Produce",
       "Smit Farm",
       "Sunrise Farm",
       "Green Eggs-n-Jam",
-      "local honey",
-      "Bill the Bulb Baron"
+      "Bill the Bulb Baron",
+      "Field of Greens",
+      "Skyline Honey",
+      "Portola Vineyards"
     ]
   },
   {
@@ -46,13 +46,11 @@
     "image": "img/Beer.png",
     "selection": false,
     "vendors": [
-      "Carnival Porporn",
+      "Karnival Porporn",
       "Noble Treats",
-      "Portola Vineyards",
       "Sinbad Catering",
       "Nut 'n Bean",
-      "High Note Coffee",
-      "Milliken Creek Vineyards"
+      "High Note Coffee"
     ]
   },
   {
@@ -73,9 +71,9 @@
       "Jen Raynes Art",
       "J. Carruthers Floral",
       "Kathena Avelon Jewelry",
-      "Dream Light Jewelry",
-      "Zubrub",
-      "Route One Pumpkin Soaps & Lotion"
+      "Dreamlight Jewelry",
+      "Route One Pumpkin Soaps & Lotion",
+      "Knife Sharpening by Jim Adams"
     ]
   }
 ]
