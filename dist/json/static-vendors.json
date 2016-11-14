@@ -1,79 +1,73 @@
 [
-  {
-    "name":"Farm Produce",
-    "image": "img/fruit.png",
-    "selection": true,
-    "vendors": [
-      "Windy Hill Eggery",
-      "Webb Ranch",
-      "Crescent Farm",
-      "Rio de Parras",
-      "Smit Farm",
-      "Sunrise Farm",
-      "Green Eggs-n-Jam",
-      "Bill the Bulb Baron",
-      "Field of Greens",
-      "Skyline Honey",
-      "Portola Vineyards"
-    ]
-  },
-  {
-    "name" : "Bakery & Sweets",
-    "image": "img/Bread.png",
-    "selection": false,
-    "vendors": [
-      "Claire’s All Natural Granola",
-      "Manresa Bread",
-      "Mayfield's Bakery",
-      "Flourchylde Bakery",
-      "Tantalizing Toffee",
-      "Spoon & Spatula Bakery",
-      "Kidding Around with Chocolate",
-      "Shampa's Pies"
-    ]
-  },
-  {
-    "name": "Meat & Fish",
-    "image": "img/Fish.png",
-    "selection": false,
-    "vendors": [
-      "Victorian Farmstead Meats",
-      "One Ocean Seafood"
-    ]
-  },
-  {
-    "name" : "Specialty Items",
-    "image": "img/Beer.png",
-    "selection": false,
-    "vendors": [
-      "Karnival Porporn",
-      "Noble Treats",
-      "Sinbad Catering",
-      "Nut 'n Bean",
-      "High Note Coffee"
-    ]
-  },
-  {
-    "name" :"Food Trucks",
-    "image": "img/Food-Truck.png",
-    "selection": false,
-    "vendors": [
-      "Roli Roti (hot rotisserie chicken and potatoes)"
-    ]
-  },
-  {
-    "name": "Crafts",
-    "image": "img/Sewing-Machine.png",
-    "selection": false,
-    "vendors": [
-      "Earth's Sister",
-      "Body & Soul Apothcary",
-      "Jen Raynes Art",
-      "J. Carruthers Floral",
-      "Kathena Avelon Jewelry",
-      "Dreamlight Jewelry",
-      "Route One Pumpkin Soaps & Lotion",
-      "Knife Sharpening by Jim Adams"
-    ]
-  }
+    {
+        "name":"Farm Produce",
+        "image": "img/fruit.png",
+        "selection": true,
+        "vendors": [
+            "Windy Hill Eggery",
+            "Webb Ranch",
+            "Crescent Farm",
+            "Victorian Farmstead Meats",
+            "Smit Farm",
+            "Field of Greens",
+            "Sunrise Farm",
+            "JSM Organics",
+            "Skyline Honey",
+            "RC Greens",
+            "Green Eggs-n-Jam",
+            "Portola Vineyards"
+        ]
+    },
+    {
+        "name" : "Specialty Items",
+        "image": "img/Bread.png",
+        "selection": false,
+        "vendors": [
+            "One Ocean Seafood",
+            "Nut ’n Bean",
+            "Joyous Juice",
+            "King’s Mountain Baking",
+            "Shampa’s Pies",
+            "Spoon & Spatula Bakery",
+            "Tantalizing Toffee",
+            "Claire’s Granola",
+            "Karnival Popcorn",
+            "Roxanne’s Biscotti",
+            "Kidding Around with Chocolate (seasonal)",
+            "Flourchylde Gluten-Free Bakery",
+            "Devil’s Canyon Brewing Co. ",
+            "Noble Treat Dog Biscuits"
+        ]
+    },
+    {
+        "name" :"Ready to Eats",
+        "image": "img/Food-Truck.png",
+        "selection": false,
+        "vendors": [
+            "Sinbad Catering",
+            "Roli Roti Rotiserrie Truck",
+            "Mama Coco’s Cocina Mexicana",
+            "Coco’s Shaved Ice"
+        ]
+    },
+    {
+        "name": "Crafts",
+        "image": "img/Sewing-Machine.png",
+        "selection": false,
+        "vendors": [
+            "Earth’s Sister Handbags",
+            "Body & Soul Apothecary",
+            "Dreamlight Jewelry",
+            "Jen Raynes Art",
+            "Kamel (handcrafted camel leather products)",
+            "J. Carruthers Floral (seasonal wreaths & preserved roses)",
+            "Route One Pumpkin Soaps & Lotions",
+            "Kathena Avelon Jewelry",
+            "La Tote/ Kitchen Witch Handbags",
+            "Nature’s Footprint Photography",
+            "Nancy Wilder Designs (wearable art)",
+            "Four Feathers Birdhouses & Feeders",
+            "Knife Sharpening by Jim Adams (2nd Thursday of every month)"
+        ]
+    }
 ]

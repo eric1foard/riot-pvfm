@@ -188,9 +188,6 @@ riot.tag2('find-us-map', '<section class="no-padding" id="portfolio"> <div id="l
     });
 });
 
-riot.tag2('my-footer', '<footer> <div class="realtimeuserscounter"></div> </footer>', '', '', function(opts) {
-});
-
 riot.tag2('navigation', '<nav id="mainNav" class="navbar navbar-default navbar-fixed-top"> <div class="container-fluid"> <div class="navbar-header"> <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button> <a class="navbar-brand page-scroll" href="#page-top">PVFM</a> </div> <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1"> <ul class="nav navbar-nav navbar-right"> <li> <a class="page-scroll" href="#about">Featured</a> </li> <li> <a class="page-scroll" href="#services">Vendors</a> </li> <li> <a class="page-scroll" href="#portfolio">Map</a> </li> <li> <a class="page-scroll" href="#contact">Contact</a> </li> </ul> </div> </div> </nav>', '', '', function(opts) {
 });
 
@@ -220,7 +217,7 @@ riot.tag2('sliding-vendor-panels', '<section id="services" show="{this.vendors}"
 riot.tag2('test', '<h1>HEY THERE THIS IS A BIG OL\' TEST</h1>', '', '', function(opts) {
 });
 
-riot.tag2('welcome', '<header> <div class="header-content"> <div class="header-content-inner"> <h1>Portola Valley Farmers\' Market</h1> <hr> <h3>2-6pm</h3> <h3>765 Portola Road, Portola Valley</h3> <h3>At Town Center, in front of the Historic Schoolhouse</h3> <h3>Every Thursday year-round, 2-6pm (2-5pm in winter)</h3> </div> </div> </header>', '', '', function(opts) {
+riot.tag2('welcome', '<header> <div class="header-content"> <div class="header-content-inner"> <h1>Portola Valley Farmers\' Market</h1> <hr> <h3>2-6pm</h3> <h3>765 Portola Road, Portola Valley</h3> <h3>At Town Center, in front of the Historic Schoolhouse</h3> <h3>shorter winter hours begin when the clocks "falls back"</h3> <h3>(November 10th through March 9th, market hours are 2-5pm)</h3> </div> </div> </header>', '', '', function(opts) {
 });
 
 // setup for riot tags
