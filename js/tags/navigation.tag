@@ -16,6 +16,9 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
+                        <a class="page-scroll" href="#events">Events</a>
+                    </li>
+                    <li>
                         <a class="page-scroll" href="#about">Featured</a>
                     </li>
                     <li>

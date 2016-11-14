@@ -23,6 +23,7 @@
         "image": "img/Bread.png",
         "selection": false,
         "vendors": [
+            "L’Atelier du Pain",
             "One Ocean Seafood",
             "Nut ’n Bean",
             "Joyous Juice",
@@ -30,8 +31,6 @@
             "Shampa’s Pies",
             "Spoon & Spatula Bakery",
             "Tantalizing Toffee",
-            "Claire’s Granola",
-            "Karnival Popcorn",
             "Roxanne’s Biscotti",
             "Kidding Around with Chocolate (seasonal)",
             "Flourchylde Gluten-Free Bakery",
